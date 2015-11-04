@@ -1,0 +1,3 @@
+<div style="padding-bottom:2px;">
+	<img src='{#image FalckSCI-logo-web}' style="height:50px;"/>
+</div>

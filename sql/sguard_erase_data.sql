@@ -1,0 +1,12 @@
+SET FOREIGN_KEY_CHECKS = 0;
+DELETE FROM descargas_lineas;
+DELETE FROM descargas;
+DELETE FROM rondas;
+DELETE FROM rondaspuntos;
+DELETE FROM rondas_realizadas;
+DELETE FROM rondas_realizdaspuntos;
+DELETE FROM puntos;
+DELETE FROM edificios;
+DELETE FROM grupos;
+DELETE FROM vigilantes;
+SET FOREIGN_KEY_CHECKS = 1;
